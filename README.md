@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d544d3d8-cd32-4fa7-a18b-f5b315d554f9" /><div align="center">
+
 
 # 🎥 Walky Gifs
 
