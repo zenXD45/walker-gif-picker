@@ -1,5 +1,4 @@
-
-
+<div align="center">
 # 🎥 Walky Gifs
 
 A lightning-fast, native GIF picker and search tool built directly inside the **Walker Launcher** ecosystem using the **Elephant** backend.
