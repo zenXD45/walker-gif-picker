@@ -1,0 +1,5 @@
+__pycache__/
+*.log
+/assets/*.png
+!assets/preview1.png
+!assets/preview2.png
