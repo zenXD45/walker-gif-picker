@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d544d3d8-cd32-4fa7-a18b-f5b315d554f9" /><div align="center">
 
 # 🎥 Walky Gifs
 
@@ -7,9 +7,11 @@ A lightning-fast, native GIF picker and search tool built directly inside the **
 **Perfect for Hyprland & Sway environments.** Instantly find GIFs, preview them live, and paste them perfectly into Element, Discord, or WhatsApp Web—*without saving files to your disk*, and *without crashing your clipboard history*.
 
 <br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2da8fcac-1900-4b9f-b060-5f7fba6d9abe" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7496550e-4b99-48cf-ac05-33c605f72b6b" />
 
-<img src="assets/preview1.png" alt="Walker Search State" width="49%">
-<img src="assets/preview2.png" alt="Walker Results State" width="49%">
+
+
 
 </div>
 
